@@ -1,0 +1,6 @@
+{
+  "name": "Palette Harmony",
+  "description": "Match colors • Discover hidden inspiration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
